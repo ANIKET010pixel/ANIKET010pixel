@@ -34,6 +34,22 @@
 </div>
 
 ###
+## **Data Science & Machine Learning Certifications**
+
+- **BCG - Data Science Job Simulation**  
+  [Show Credential](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_X6MpxTGA97jgPGkk8_1699597996959_completion_certificate.pdf)
+
+- **KPMG Data Analytics Internship**  
+  [Show Credential](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_X6MpxTGA97jgPGkk8_1693282364884_completion_certificate.pdf)
+
+- **Advanced Learning Algorithms**  
+  [Show Credential](https://www.coursera.org/account/accomplishments/certificate/PLE33PEZ7DE5)
+
+- **Python for Data Science, AI & Development**  
+  [Show Credential](https://www.coursera.org/account/accomplishments/verify/LSSPNUAXNUJC)
+
+- **Supervised Machine Learning: Regression and Classification**  
+  [Show Credential](https://www.coursera.org/account/accomplishments/verify/MPM4MDH9TWEJ)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aniket-lokhande-9b1482219/">
