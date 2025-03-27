@@ -9,7 +9,7 @@ I’m a **Data Analyst** from India, working with SQL, Power BI, Excel, Python, 
 
 📝 I share my projects and thoughts on GitHub, and I’m always open to feedback and new opportunities.
 
-💼 Checkout my [Portfolio](https://aniket010pixel.github.io/portfolio/).
+💼 Checkout my Project [Portfolio](https://aniket010pixel.github.io/portfolio/).
 
 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/aniket-lokhande-9b1482219/).
 </h4>
