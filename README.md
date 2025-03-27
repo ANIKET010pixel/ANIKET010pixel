@@ -8,8 +8,6 @@ I’m a Data Analyst/Scientist from India, working with SQL, Power BI, Excel, Py
 
 🌱 I’m constantly learning new techniques and tools to improve my data analysis skills.
 
-💞️ I enjoy collaborating with fellow data enthusiasts and sharing knowledge.
-
 📝 I share my projects and thoughts on GitHub, and I’m always open to feedback and new opportunities.
 
 # 🌟 What I Bring to the Table
