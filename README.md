@@ -20,11 +20,11 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
   <img width="24" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60" alt="powerbi logo"  />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60" alt="powerbi logo"  />  
   <img width="24" />
-<img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-1024.png" height="60" alt="tableau logo"  />  
+  <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-1024.png" height="60" alt="tableau logo"  />  
   <img width="24" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60" alt="matplotlib logo"  />
   <img width="24" />
@@ -33,13 +33,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
 </div>
 
-
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"() height="35" alt="linkedin logo" (https://www.linkedin.com/in/aniket-lokhande-9b1482219/) />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
+  <a href="https://www.linkedin.com/in/aniket-lokhande-9b1482219/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://github.com/aniketlokhande">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+  <a href="mailto:aniketlokhande@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo" />
+  </a>
 </div>
 
 ###
