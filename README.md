@@ -1,5 +1,5 @@
 <h4 align="left"> 👋 Hi, I’m Aniket.
-I’m a **Data Analyst** from India, working with SQL, Power BI, Excel, Python, and machine learning tools to transform data into insights.
+I’m a Data Analyst/Scientist from India, working with SQL, Power BI, Excel, Python, and machine learning tools to transform data into insights.
 
 👀 I’m interested in **data visualization**, **machine learning**, and **sustainability**. Right now, I’m focused on analyzing Supply chain, Geofencing, Route Analysis in the logistics industry to help companies make more environmentally conscious decisions.
 
