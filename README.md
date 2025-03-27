@@ -1,5 +1,5 @@
 <h4 align="left">
-# 👋 Hi, I’m Aniket,
+# 🌟 What I Bring to the Table👋
  I’m a Data Analyst/Scientist from India, working with SQL, Power BI, Excel, Python, and machine learning tools to transform data into insights.
 
 
