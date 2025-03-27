@@ -1,4 +1,4 @@
-<h2 align="left"># 👋 Hi, I’m **Aniket**.
+<h2 align="left"> 👋 Hi, I’m **Aniket**.
 
 💼 I’m a **Data Analyst** from India, working with SQL, Power BI, Excel, Python, and machine learning tools to transform data into insights.
 
