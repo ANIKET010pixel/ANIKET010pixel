@@ -22,7 +22,7 @@
   <img width="24" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60" alt="powerbi logo"  />  
   <img width="24" />
-<img src="<a href="https://iconscout.com/icons/tableau-software" class="text-underline font-size-sm" target="_blank">tableau software</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm">Icon Mafia</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>" height="60" alt="tableau logo"  />  
+<img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-1024.png" height="60" alt="tableau logo"  />  
   <img width="24" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
   <img width="24" />
