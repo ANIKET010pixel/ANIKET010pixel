@@ -31,7 +31,7 @@ I’m a **Data Analyst** from India, working with SQL, Power BI, Excel, Python, 
   <img width="24" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="60" alt="excel logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" height="60" alt="github logo"  />
 </div>
 
 ###
