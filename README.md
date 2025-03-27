@@ -1,6 +1,5 @@
 <h4 align="left"> 👋 Hi, I’m Aniket.
-
-💼 I’m a **Data Analyst** from India, working with SQL, Power BI, Excel, Python, and machine learning tools to transform data into insights.
+I’m a **Data Analyst** from India, working with SQL, Power BI, Excel, Python, and machine learning tools to transform data into insights.
 
 👀 I’m interested in **data visualization**, **machine learning**, and **sustainability**. Right now, I’m focused on analyzing Supply chain, Geofencing, Route Analysis in the logistics industry to help companies make more environmentally conscious decisions.
 
@@ -9,6 +8,8 @@
 💞️ I enjoy collaborating with fellow data enthusiasts and sharing knowledge.
 
 📝 I share my projects and thoughts on GitHub, and I’m always open to feedback and new opportunities.
+
+💼 Checkout my [Portfolio](https://aniket010pixel.github.io/portfolio/).
 
 📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/aniket-lokhande-9b1482219/).
 </h4>
