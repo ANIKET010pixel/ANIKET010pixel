@@ -1,4 +1,17 @@
-<h2 align="left">Hi 👋! My name is Aniket and I'm a Data Analyst, from India</h2>
+<h2 align="left"># 👋 Hi, I’m **Aniket**.
+
+💼 I’m a **Data Analyst** from India, working with SQL, Power BI, Excel, Python, and machine learning tools to transform data into insights.
+
+👀 I’m interested in **data visualization**, **machine learning**, and **sustainability**. Right now, I’m focused on analyzing carbon emissions in the logistics industry to help companies make more environmentally conscious decisions.
+
+🌱 I’m constantly learning new techniques and tools to improve my data analysis skills.
+
+💞️ I enjoy collaborating with fellow data enthusiasts and sharing knowledge.
+
+📝 I share my projects and thoughts on GitHub, and I’m always open to feedback and new opportunities.
+
+📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/aniket).
+</h2>
 
 ###
 
@@ -16,12 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
 </div>
 
-###
-
-<h3 align="left">🏆 HackerRank SQL 5-Star Badge</h3>
-<div align="left">
-  <img src="https://www.hackerrank.com/static/images/hackerRank-5-star.svg" height="50" alt="HackerRank 5-Star Badge" />
-</div>
 
 ###
 
