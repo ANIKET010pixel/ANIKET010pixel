@@ -46,7 +46,7 @@
   <img width="24" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" height="60" alt="github logo"  />
 </div>
-<h4 align="left">📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/aniket-lokhande-9b1482219/).
+<h4 align="left">📫 How to reach me: Message me on  <a href="https://www.linkedin.com/in/aniket-lokhande-9b1482219/">LinkedIn</a>[).
 <h4>
  
 ## 📜 Certifications
