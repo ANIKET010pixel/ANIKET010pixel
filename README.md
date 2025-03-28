@@ -50,38 +50,44 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" height="60" alt="github logo"  />
 </div>
 
-###<ul>
-  <li>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="60" width="24">
-    <b>HackerRank - SQL Basic</b>  
-    <a href="https://www.hackerrank.com/certificates/f6ead5d59e88">View Certificate</a>
-  </li>
-  <li>
-    <img src="https://www.bcg.com/content/dam/bcg-com/brand-identity/bcg_logo_green.svg" alt="BCG" height="60" width="24">
-    <b>BCG - Data Science Job Simulation</b>  
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_X6MpxTGA97jgPGkk8_1699597996959_completion_certificate.pdf">View Certificate</a>
-  </li>
-  <li>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/KPMG_logo.svg/320px-KPMG_logo.svg.png" alt="KPMG" height="60" width="24">
-    <b>KPMG Data Analytics Internship</b>  
-    <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_X6MpxTGA97jgPGkk8_1693282364884_completion_certificate.pdf">View Certificate</a>
-  </li>
-  <li>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg" alt="Coursera" height="60" width="24">
-    <b>Advanced Learning Algorithms</b>  
-    <a href="https://www.coursera.org/account/accomplishments/certificate/PLE33PEZ7DE5">View Certificate</a>
-  </li>
-  <li>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg" alt="Coursera" height="60" width="24">
-    <b>Python for Data Science, AI & Development</b>  
-    <a href="https://www.coursera.org/account/accomplishments/verify/LSSPNUAXNUJC">View Certificate</a>
-  </li>
-  <li>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg" alt="Coursera" height="60" width="24">
-    <b>Supervised Machine Learning: Regression and Classification</b>  
-    <a href="https://www.coursera.org/account/accomplishments/verify/MPM4MDH9TWEJ">View Certificate</a>
-  </li>
-</ul>
+###
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="60" alt="HackerRank logo" />
+  <img width="24" />
+  <b>HackerRank - SQL Basic</b>  
+  <a href="https://www.hackerrank.com/certificates/f6ead5d59e88">View Certificate</a>
+  <br /><br />
+
+  <img src="https://www.bcg.com/content/dam/bcg-com/brand-identity/bcg_logo_green.svg" height="60" alt="BCG logo" />
+  <img width="24" />
+  <b>BCG - Data Science Job Simulation</b>  
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_X6MpxTGA97jgPGkk8_1699597996959_completion_certificate.pdf">View Certificate</a>
+  <br /><br />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/KPMG_logo.svg/320px-KPMG_logo.svg.png" height="60" alt="KPMG logo" />
+  <img width="24" />
+  <b>KPMG Data Analytics Internship</b>  
+  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_X6MpxTGA97jgPGkk8_1693282364884_completion_certificate.pdf">View Certificate</a>
+  <br /><br />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg" height="60" alt="Coursera logo" />
+  <img width="24" />
+  <b>Advanced Learning Algorithms</b>  
+  <a href="https://www.coursera.org/account/accomplishments/certificate/PLE33PEZ7DE5">View Certificate</a>
+  <br /><br />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg" height="60" alt="Coursera logo" />
+  <img width="24" />
+  <b>Python for Data Science, AI & Development</b>  
+  <a href="https://www.coursera.org/account/accomplishments/verify/LSSPNUAXNUJC">View Certificate</a>
+  <br /><br />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg" height="60" alt="Coursera logo" />
+  <img width="24" />
+  <b>Supervised Machine Learning: Regression and Classification</b>  
+  <a href="https://www.coursera.org/account/accomplishments/verify/MPM4MDH9TWEJ">View Certificate</a>
+</div>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aniket-lokhande-9b1482219/">
