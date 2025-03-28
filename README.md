@@ -53,8 +53,8 @@
 ###
 ## **Data Science & Machine Learning Certifications**
 
-- **BCG - Data Science Job Simulation**  
-  [Show Credential](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_X6MpxTGA97jgPGkk8_1699597996959_completion_certificate.pdf)
+- **BCG - Data Science Job Simulation**  [Show Credential](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_X6MpxTGA97jgPGkk8_1699597996959_completion_certificate.pdf)
+  
 
 - **KPMG Data Analytics Internship**  
   [Show Credential](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_X6MpxTGA97jgPGkk8_1693282364884_completion_certificate.pdf)
