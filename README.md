@@ -66,7 +66,7 @@
 </div>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/KPMG_logo.svg/320px-KPMG_logo.svg.png" height="60" alt="KPMG logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/KPMG_logo.svg" height="60" alt="KPMG logo" />
   <b>KPMG Data Analytics Internship</b>  
   <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_X6MpxTGA97jgPGkk8_1693282364884_completion_certificate.pdf">View Certificate</a>
 </div>
