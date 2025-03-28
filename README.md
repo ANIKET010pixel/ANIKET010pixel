@@ -51,7 +51,8 @@
 </div>
 
 ###
-## **Data Science & Machine Learning Certifications**
+## **Certifications**
+- **SQL (Basic) Certificate**  [Certificate](https://www.hackerrank.com/certificates/f6ead5d59e88)
 
 - **BCG - Data Science Job Simulation**  [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_X6MpxTGA97jgPGkk8_1699597996959_completion_certificate.pdf)
   
