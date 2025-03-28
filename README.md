@@ -53,23 +53,10 @@
 ###
 ## 📜 Certifications
 
-<div align="left">
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="25" alt="HackerRank logo"  style="vertical-align: middle;" />
   <b>HackerRank - SQL Basic</b>  
   <a href="https://www.hackerrank.com/certificates/f6ead5d59e88">View Certificate</a>
-</div>
-
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Boston_Consulting_Group_2020_logo.svg" height="25" alt="BCG logo" />
-  <b>BCG - Data Science Job Simulation</b>  
-  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_X6MpxTGA97jgPGkk8_1699597996959_completion_certificate.pdf">View Certificate</a>
-</div>
-
-<div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/KPMG_logo.svg" height="25" alt="KPMG logo" />
-  <b>KPMG Data Analytics Internship</b>  
-  <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_X6MpxTGA97jgPGkk8_1693282364884_completion_certificate.pdf">View Certificate</a>
-</div>
 
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" height="25" alt="Coursera logo" />
