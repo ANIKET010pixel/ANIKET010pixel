@@ -60,7 +60,7 @@
 </div>
 
 <div align="left">
-  <img src="https://www.bcg.com/content/dam/bcg-com/brand-identity/bcg_logo_green.svg" height="60" alt="BCG logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Boston_Consulting_Group_2020_logo.svg" height="60" alt="BCG logo" />
   <b>BCG - Data Science Job Simulation</b>  
   <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_X6MpxTGA97jgPGkk8_1699597996959_completion_certificate.pdf">View Certificate</a>
 </div>
@@ -72,19 +72,19 @@
 </div>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg" height="60" alt="Coursera logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" height="60" alt="Coursera logo" />
   <b>Advanced Learning Algorithms</b>  
   <a href="https://www.coursera.org/account/accomplishments/certificate/PLE33PEZ7DE5">View Certificate</a>
 </div>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg" height="60" alt="Coursera logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" height="60" alt="Coursera logo" />
   <b>Python for Data Science, AI & Development</b>  
   <a href="https://www.coursera.org/account/accomplishments/verify/LSSPNUAXNUJC">View Certificate</a>
 </div>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg" height="60" alt="Coursera logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" height="60" alt="Coursera logo" />
   <b>Supervised Machine Learning: Regression and Classification</b>  
   <a href="https://www.coursera.org/account/accomplishments/verify/MPM4MDH9TWEJ">View Certificate</a>
 </div>
