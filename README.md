@@ -29,9 +29,6 @@
 
 
 </h4>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="24" />
@@ -51,7 +48,7 @@
 </div>
 <h4 align="left">📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/aniket-lokhande-9b1482219/).
 <h4>
-###
+ 
 ## 📜 Certifications
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="25" alt="HackerRank logo" style="vertical-align: middle;" />
