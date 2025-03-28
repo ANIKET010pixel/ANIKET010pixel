@@ -54,7 +54,7 @@
 ## 📜 Certifications
 
 <div align="left">
-  <img src="https://commons.wikimedia.org/wiki/File:HackerRank_logo.png" height="25" alt="HackerRank logo"  style="vertical-align: middle;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="25" alt="HackerRank logo"  style="vertical-align: middle;" />
   <b>HackerRank - SQL Basic</b>  
   <a href="https://www.hackerrank.com/certificates/f6ead5d59e88">View Certificate</a>
 </div>
