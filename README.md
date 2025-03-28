@@ -53,29 +53,29 @@
 ###
 ## 📜 Certifications
 
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="25" alt="HackerRank logo"  style="vertical-align: middle;" />
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="25" alt="HackerRank logo" style="vertical-align: middle;" />
   <b>HackerRank - SQL Basic</b>  
   <a href="https://www.hackerrank.com/certificates/f6ead5d59e88">View Certificate</a>
+</div>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" height="25" alt="Coursera logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" height="25" alt="Coursera logo" style="vertical-align: middle;" />
   <b>Advanced Learning Algorithms</b>  
   <a href="https://www.coursera.org/account/accomplishments/certificate/PLE33PEZ7DE5">View Certificate</a>
 </div>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" height="25" alt="Coursera logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" height="25" alt="Coursera logo" style="vertical-align: middle;" />
   <b>Python for Data Science, AI & Development</b>  
   <a href="https://www.coursera.org/account/accomplishments/verify/LSSPNUAXNUJC">View Certificate</a>
 </div>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" height="25" alt="Coursera logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Coursera-Logo_600x600.svg" height="25" alt="Coursera logo" style="vertical-align: middle;" />
   <b>Supervised Machine Learning: Regression and Classification</b>  
   <a href="https://www.coursera.org/account/accomplishments/verify/MPM4MDH9TWEJ">View Certificate</a>
 </div>
-
 
 
 <div align="left">
