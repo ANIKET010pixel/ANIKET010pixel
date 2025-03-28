@@ -27,7 +27,7 @@
 - **🛠️ Other Tools**: Google Sheets, MS Office Suite, PowerPoint, and Canva for comprehensive data analysis and presentation.
 
 
-📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/aniket-lokhande-9b1482219/).
+
 </h4>
 
 ###
@@ -49,7 +49,7 @@
   <img width="24" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" height="60" alt="github logo"  />
 </div>
-
+📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/aniket-lokhande-9b1482219/).
 ###
 ## 📜 Certifications
 <div align="left">
