@@ -52,23 +52,23 @@
 
 ###
 ## **Certifications**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="20"> **HackerRank - SQL Basic**  
-  [![Certificate](https://img.shields.io/badge/View%20Certificate-blue)](https://www.hackerrank.com/certificates/f6ead5d59e88)
+- ![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png) **HackerRank - SQL Basic**  
+  [View Certificate](https://www.hackerrank.com/certificates/f6ead5d59e88)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Boston_Consulting_Group_logo.svg" height="20"> **BCG - Data Science Job Simulation**  
-  [![Certificate](https://img.shields.io/badge/View%20Certificate-blue)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_X6MpxTGA97jgPGkk8_1699597996959_completion_certificate.pdf)
+- ![BCG](https://www.bcg.com/content/dam/bcg-com/brand-identity/bcg_logo_green.svg) **BCG - Data Science Job Simulation**  
+  [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_X6MpxTGA97jgPGkk8_1699597996959_completion_certificate.pdf)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/KPMG_logo.svg" height="20"> **KPMG Data Analytics Internship**  
-  [![Certificate](https://img.shields.io/badge/View%20Certificate-blue)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_X6MpxTGA97jgPGkk8_1693282364884_completion_certificate.pdf)
+- ![KPMG](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/KPMG_logo.svg/320px-KPMG_logo.svg.png) **KPMG Data Analytics Internship**  
+  [View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_X6MpxTGA97jgPGkk8_1693282364884_completion_certificate.pdf)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg" height="20"> **Advanced Learning Algorithms**  
-  [![Certificate](https://img.shields.io/badge/View%20Certificate-blue)](https://www.coursera.org/account/accomplishments/certificate/PLE33PEZ7DE5)
+- ![Coursera](https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg) **Advanced Learning Algorithms**  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/PLE33PEZ7DE5)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg" height="20"> **Python for Data Science, AI & Development**  
-  [![Certificate](https://img.shields.io/badge/View%20Certificate-blue)](https://www.coursera.org/account/accomplishments/verify/LSSPNUAXNUJC)
+- ![Coursera](https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg) **Python for Data Science, AI & Development**  
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/LSSPNUAXNUJC)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg" height="20"> **Supervised Machine Learning: Regression and Classification**  
-  [![Certificate](https://img.shields.io/badge/View%20Certificate-blue)](https://www.coursera.org/account/accomplishments/verify/MPM4MDH9TWEJ)
+- ![Coursera](https://upload.wikimedia.org/wikipedia/commons/0/0d/Coursera-Logo.jpg) **Supervised Machine Learning: Regression and Classification**  
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/MPM4MDH9TWEJ)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/aniket-lokhande-9b1482219/">
