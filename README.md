@@ -17,8 +17,9 @@
 - **📝 Reporting & Dashboarding**: Developing dashboards that tell a story, making data engaging and informative.
 - **📈 Business Intelligence**: Enabling strategic decisions through data-driven insights.
 - **📖 Data Storytelling**: Transforming numbers into narratives that resonate with audiences.
-## My Portfolio
-<a href="(https://www.datascienceportfol.io/AniketLokhande)">Link</a>
+
+<h4 align="left">📫 Check my  <a href="https://www.datascienceportfol.io/AniketLokhande">Portfolio</a>.
+<h4>
 
 ## 📍 Technical Skills
 
