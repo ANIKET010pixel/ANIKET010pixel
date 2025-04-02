@@ -8,6 +8,8 @@
 🌱 I’m constantly learning new techniques and tools to improve my data analysis skills.
 
 📝 I share my projects and thoughts on GitHub, and I’m always open to feedback and new opportunities.
+<h4 align="left">📫 Check my  <a href="https://www.datascienceportfol.io/AniketLokhande">Portfolio</a>.
+<h4>
 
 # 🌟 What I Bring to the Table
 
@@ -18,8 +20,7 @@
 - **📈 Business Intelligence**: Enabling strategic decisions through data-driven insights.
 - **📖 Data Storytelling**: Transforming numbers into narratives that resonate with audiences.
 
-<h4 align="left">📫 Check my  <a href="https://www.datascienceportfol.io/AniketLokhande">Portfolio</a>.
-<h4>
+
 
 ## 📍 Technical Skills
 
