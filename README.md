@@ -56,10 +56,10 @@
 
 # 📊 Power BI Dashboards  
 
-[![Dashboard 1](![Screenshot 2025-04-02 172859](https://github.com/user-attachments/assets/c89a5b21-110e-4032-b721-29e7562c0ac6)
-)](https://your-powerbi-link.com)  
-[![Dashboard 2](https://your-image-url.com/dashboard2.png)](https://your-powerbi-link.com)  
-[![Dashboard 3](https://your-image-url.com/dashboard3.png)](https://your-powerbi-link.com)
+<a href="https://your-powerbi-link.com">
+  <img src="https://github.com/user-attachments/assets/c89a5b21-110e-4032-b721-29e7562c0ac6" width="400"/>
+</a>
+
 
  
 ## 📜 Certifications
