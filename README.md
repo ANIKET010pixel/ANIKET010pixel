@@ -57,7 +57,8 @@
 # 📊 Power BI Dashboards  
 
 <a href="https://your-powerbi-link.com">
-  <img src="https://github.com/user-attachments/assets/c89a5b21-110e-4032-b721-29e7562c0ac6" width="40"/>
+  <img src="![Uploading Screenshot 2025-04-02 173008.png…]()
+" width="80"/>
 </a>
 
 
