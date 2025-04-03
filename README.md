@@ -20,6 +20,8 @@
 - **📈 Business Intelligence**: Enabling strategic decisions through data-driven insights.
 - **📖 Data Storytelling**: Transforming numbers into narratives that resonate with audiences.
 
+# Power BI 
+
 
 
 ## 📍 Technical Skills
