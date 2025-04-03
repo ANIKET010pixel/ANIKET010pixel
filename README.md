@@ -54,10 +54,13 @@
 <h4>
 
 
-# Power BI 
-<div align="left">
-  <img src="![Screenshot 2025-04-02 172859](https://github.com/user-attachments/assets/58a9e470-59cd-4eb8-a134-b533a8b73c79)" height="25" alt="HackerRank logo" style="vertical-align: middle;" />
-  <a href="https://www.hackerrank.com/certificates/d18efe847f86"></a>
+# 📊 Power BI Dashboards  
+
+[![Dashboard 1](![Screenshot 2025-04-02 172859](https://github.com/user-attachments/assets/c89a5b21-110e-4032-b721-29e7562c0ac6)
+)](https://your-powerbi-link.com)  
+[![Dashboard 2](https://your-image-url.com/dashboard2.png)](https://your-powerbi-link.com)  
+[![Dashboard 3](https://your-image-url.com/dashboard3.png)](https://your-powerbi-link.com)
+
  
 ## 📜 Certifications
 <div align="left">
