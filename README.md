@@ -58,7 +58,8 @@
 
 <a href="https://github.com/ANIKET010pixel/Supply-Chain-Management">
   <img src=
-"https://github.com/user-attachments/assets/5d13ece4-76db-4521-af32-b85bc7d97929)](https://private-user-images.githubusercontent.com/77607297/429470901-16a6b358-7eb1-46f1-8fa7-e02445c0d5e3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM2Njc1MTcsIm5iZiI6MTc0MzY2NzIxNywicGF0aCI6Ii83NzYwNzI5Ny80Mjk0NzA5MDEtMTZhNmIzNTgtN2ViMS00NmYxLThmYTctZTAyNDQ1YzBkNWUzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDAzVDA4MDAxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlOTFlNjgzMDQzODNiNDFiMTZhNjA0MWZkNzljMGUyNGQ3YmM2M2YzMDIyMzEzMzQxMDMzMGY4MzViNDFkMzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pAIm2zTFrd3rn-ZhJ3M8fvLXDR1qfpnPmjcRQSsuqa4" width="300"/>
+"![Screenshot 2025-04-02 173008](https://github.com/user-attachments/assets/1c85e856-eb24-4cfd-b3a2-5c9e3407be77)
+" width="300"/>
 </a>
 
 
