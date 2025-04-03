@@ -20,8 +20,6 @@
 - **📈 Business Intelligence**: Enabling strategic decisions through data-driven insights.
 - **📖 Data Storytelling**: Transforming numbers into narratives that resonate with audiences.
 
-# Power BI 
-
 
 
 ## 📍 Technical Skills
@@ -54,6 +52,12 @@
 </div>
 <h4 align="left">📫 How to reach me: Message me on  <a href="https://www.linkedin.com/in/aniket-lokhande-9b1482219/">LinkedIn</a>.
 <h4>
+
+
+# Power BI 
+<div align="left">
+  <img src="![Screenshot 2025-04-02 172859](https://github.com/user-attachments/assets/58a9e470-59cd-4eb8-a134-b533a8b73c79)" height="25" alt="HackerRank logo" style="vertical-align: middle;" />
+  <a href="https://www.hackerrank.com/certificates/d18efe847f86"></a>
  
 ## 📜 Certifications
 <div align="left">
