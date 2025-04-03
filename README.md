@@ -54,10 +54,10 @@
 <h4>
 
 
-## 📊 Power BI Dashboards  
+## 📊 Power BI 
 
 <a href="https://github.com/ANIKET010pixel/Supply-Chain-Management">
-  <img src="https://raw.githubusercontent.com/ANIKET010pixel/Supply-Chain-Management/main/Dashboard%20Images/Screenshot%202025-04-02%20173008.png" width="300"/>
+  <img src="![original-64ec204cb9e7d8484a72377001d2058f](https://github.com/user-attachments/assets/fc95a492-7f85-4da4-8229-dee428c82309)" width="300"/>
 </a>
 
 
