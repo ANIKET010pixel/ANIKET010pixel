@@ -56,10 +56,15 @@
 
 ## 📊 Power BI 
 
-<a href="https://github.com/ANIKET010pixel/Supply-Chain-Management">
-  <img src="https://raw.githubusercontent.com/ANIKET010pixel/Supply-Chain-Management/main/Dashboard%20Images/Screenshot%202025-04-02%20173008.png" width="300"/>
-</a>
-
+<div align="center">
+  <a href="https://github.com/ANIKET010pixel/Supply-Chain-Management">
+    <img src="https://raw.githubusercontent.com/ANIKET010pixel/Supply-Chain-Management/main/Dashboard%20Images/Screenshot%202025-04-02%20173008.png" width="300"/>
+  </a>
+  
+  <a href="https://github.com/ANIKET010pixel/Netflix-Business-Case-Study">
+    <img src="https://github.com/ANIKET010pixel/Netflix-Business-Case-Study/blob/main/Netflix%20Dashboard.png" width="300"/>
+  </a>
+</div>
 
 
 
