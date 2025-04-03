@@ -54,8 +54,7 @@
 <h4>
 
 
-##   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="60" alt="powerbi logo"  />  
-  <img width="24" /> Power BI 
+## Power BI 
 
 <div align="left">
   <a href="https://github.com/ANIKET010pixel/Supply-Chain-Management">
@@ -68,7 +67,7 @@
 </div>
 
 
-## 📊 SQL
+##  SQL
 
 <div align="left">
   <a href="https://github.com/ANIKET010pixel/Netflix-Business-Case-Study">
