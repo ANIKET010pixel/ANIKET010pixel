@@ -57,10 +57,9 @@
 ## 📊 Power BI Dashboards  
 
 <a href="https://github.com/ANIKET010pixel/Supply-Chain-Management">
-  <img src=
-"![Screenshot 2025-04-02 173008](https://github.com/user-attachments/assets/1c85e856-eb24-4cfd-b3a2-5c9e3407be77)
-" width="300"/>
+  <img src="https://raw.githubusercontent.com/ANIKET010pixel/Supply-Chain-Management/main/Dashboard%20Images/Screenshot%202025-04-02%20173008.png" width="300"/>
 </a>
+
 
 
 
