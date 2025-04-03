@@ -67,6 +67,15 @@
 </div>
 
 
+## 📊 SQL
+
+<div align="left">
+  <a href="https://github.com/ANIKET010pixel/Netflix-Business-Case-Study">
+    <img src="https://github.com/ANIKET010pixel/Netflix-Business-Case-Study/blob/main/logo.png" width="250"/>
+  </a>
+</div>
+
+
 
  
 ## 📜 Certifications
