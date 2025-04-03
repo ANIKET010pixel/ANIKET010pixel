@@ -58,7 +58,7 @@
 
 <a href="(https://github.com/ANIKET010pixel/Supply-Chain-Management)">
   <img src=
-"!(https://github.com/user-attachments/assets/5d13ece4-76db-4521-af32-b85bc7d97929)" width="300"/>
+"(https://github.com/user-attachments/assets/5d13ece4-76db-4521-af32-b85bc7d97929)" width="300"/>
 </a>
 
 
