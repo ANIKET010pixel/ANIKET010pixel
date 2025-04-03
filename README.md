@@ -56,6 +56,12 @@
 ## 📜 Certifications
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="25" alt="HackerRank logo" style="vertical-align: middle;" />
+  <b>HackerRank - SQL advanced </b>  
+  <a href="https://www.hackerrank.com/certificates/d18efe847f86">View Certificate</a>
+</div>
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="25" alt="HackerRank logo" style="vertical-align: middle;" />
   <b>HackerRank - SQL Intermediate </b>  
   <a href="https://www.hackerrank.com/certificates/e333fd2712a7">View Certificate</a>
 </div>
