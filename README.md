@@ -70,7 +70,7 @@
 ##  SQL
 
 <div align="left">
-  <a href="https://github.com/ANIKET010pixel/Netflix-Business-Case-Study">
+  <a href="https://raw.githubusercontent.com/microsoft/azuredatastudio/main/extensions/sql-database-projects/images/readme-sqlproj.png">
     <img src="https://github.com/ANIKET010pixel/Netflix-Business-Case-Study/blob/main/logo.png" width="200"/>
   </a>
 </div>
