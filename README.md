@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Aniket👋</h1>
 <h4 align="left">
- I’m a Data Analyst/Scientist from India, working with SQL, Power BI, Excel, Python, and machine learning tools to transform data into insights.
+ I’m a Data Analyst/Scientist from India, working with SQL, BI tools(Power BI, Tableau, Looker Studio), Excel, Python, and machine learning tools to transform data into insights.
 
 
 👀 I’m interested in **data visualization**, **machine learning**, and **sustainability**. Right now, I’m focused on analyzing Supply chain, Geofencing, Route Analysis in the logistics industry to help companies make more environmentally conscious decisions.
@@ -24,7 +24,7 @@
 
 ## 📍 Technical Skills
 
-- **📐 Power BI**: Proficient in Power BI Desktop, Power Query, Data Modeling, DAX, ETL, Power BI Service, and creating engaging reports and dashboards.
+- **📐 BI tools**: Proficient in BI tools, Power Query, Data Modeling, DAX, ETL, Power BI Service, and creating engaging reports and dashboards.
 - **🛢️ SQL**: Skilled in SQL Queries, Joins, CTEs, Window Functions, Aggregate Functions, and database management with MySQL and SQL Server.
 - **📊 MS Excel**: Advanced knowledge in Excel functions, data cleaning, Pivot Tables & Charts, MIS Dashboarding, and Power Query.
 - **🐍 Python**: Familiar with data manipulation and visualization using Numpy, Pandas, and Matplotlib.
