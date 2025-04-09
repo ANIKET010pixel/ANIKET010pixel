@@ -2,8 +2,7 @@
 <h4 align="left">
  I’m a Data Analyst/Scientist from India, working with SQL, BI tools(Power BI, Tableau, Looker Studio), Excel, Python, and machine learning tools to transform data into insights.
 
-
-👀 I’m interested in **data visualization**, **machine learning**, and **sustainability**. Right now, I’m focused on analyzing Supply chain, Geofencing, Route Analysis in the logistics industry to help companies make more environmentally conscious decisions.
+I’m interested in **data visualization**, **machine learning**, and **sustainability**. Right now, I’m focused on analyzing Supply chain, Geofencing, Route Analysis in the logistics industry to help companies make more environmentally conscious decisions.
 
 🌱 I’m constantly learning new techniques and tools to improve my data analysis skills.
 
