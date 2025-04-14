@@ -74,6 +74,15 @@ I’m interested in **data visualization**, **machine learning**, and **sustaina
   </a>
 </div>
 
+##  Tableau
+
+<div align="left">
+  <a href="https://public.tableau.com/app/profile/aniket.lokhande5528/viz/SupplyChainManagement-2/Dashboard1">
+    <img src="![Screenshot 2025-04-14 094732](https://github.com/user-attachments/assets/6c86d7c4-25cd-4724-a2cb-baac55d300ff)"
+ width="200"/>
+  </a>
+</div>
+
 
 
  
